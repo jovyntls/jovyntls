@@ -1,3 +1,6 @@
 [submodule "devicon"]
 	path = devicon
 	url = https://github.com/devicons/devicon
+[submodule "openmoji"]
+	path = openmoji
+	url = https://github.com/hfg-gmuend/openmoji
