@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hello! Thanks for visiting 🌱
+Hello! Thanks for visiting 🌱
 
 <a href="https://www.jovyntan.com">
     <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F3E0.svg" width="40px" alt="jovyntan.com" />
@@ -13,6 +13,10 @@
 
 <hr />
 
+<a href="https://github.com/jovyntls/cheatsheets">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=jovyntls&repo=cheatsheets" align="right"/>
+</a>
+
 ### I have worked with:
 
 **Languages:**
@@ -24,6 +28,7 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" width="50px" alt="java" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" width="50px" alt="ruby" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="50px" alt="go" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/92/LaTeX_logo.svg" height="35px" alt="latex" />
 </span>
 
 <br />
