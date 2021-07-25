@@ -1,12 +1,12 @@
 <div align="center">
 
-Hello! Thanks for visiting 🌱
+Hello! Thanks for visiting 🌱 
 
 <a href="https://www.jovyntan.com">
-    <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/1F3E0.svg" width="40px" alt="jovyntan.com" />
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/house-user.svg" width="25px" alt="jovyntan.com" />
 </a>
 <a href="https://www.linkedin.com">
-    <img src="https://raw.githubusercontent.com/hfg-gmuend/openmoji/master/color/svg/E046.svg" width="40px" alt="linkedin" />
+    <img src="https://raw.githubusercontent.com/twbs/icons/main/icons/linkedin.svg" width="25px" alt="linkedin" />
 </a>
 
 </div>
